@@ -1,5 +1,5 @@
 # SIVETEC
-Sistema de Ventas de Tecnologica
+Sistema de Ventas de Tecnología
 
 Desarrollado con el lenguaje JAVA (Unidad didáctica: Taller de Programación)
 
